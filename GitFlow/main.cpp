@@ -29,7 +29,7 @@ int main() {
 
    // Выаод массива.
     for (int s = 0 ; s < (len); s++){
-        cout << arr[s] << " " ;
+        cout << arr[s] << "\n" ;
     }
 
     return 0 ;
