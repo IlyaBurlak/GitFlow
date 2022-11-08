@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  GitFlow
-//
-//  Created by Илья Бурлак on 16.10.2022.
-//
-
-#include <iostream>
 
 //  GitFlow
 //
@@ -14,7 +6,7 @@
 //  my email: ilya.burlak@mail.ry
 
 
-
+#include <iostream>
 
 using namespace std;
 
@@ -46,3 +38,4 @@ int main() {
 
     return 0 ;
 }
+
