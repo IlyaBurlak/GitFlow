@@ -1,10 +1,10 @@
-//
+
 //  GitFlow
 //
 //  Created by Илья Бурлак on 16.10.2022.
 //
 //  my email: ilya.burlak@mail.ry
-//
+
 
 #include <iostream>
 
